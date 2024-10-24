@@ -1,7 +1,7 @@
 ## About us 
 
 We are scientists working towards standardisation in grazing incidence small-angle scattering. 
-We are part of [canSAS](https://wiki.cansas.org/index.php?title=canSAS) and form the (Grazing Incidence Working Group)[https://wiki.cansas.org/index.php?title=Grazing_Incidence_Working_Group] there. 
+We are part of [canSAS](https://wiki.cansas.org/index.php?title=canSAS) and form the [Grazing Incidence Working Group](https://wiki.cansas.org/index.php?title=Grazing_Incidence_Working_Group) there. 
 
 
 <!--
